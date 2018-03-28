@@ -1,0 +1,5 @@
+com\cdc\mitrais\jpa_jpql\App.class
+com\cdc\mitrais\jpa_jpql\entity\Employee.class
+com\cdc\mitrais\jpa_jpql\entity\Staff.class
+com\cdc\mitrais\jpa_jpql\entity\TeachingStaff.class
+com\cdc\mitrais\jpa_jpql\entity\NonTeachingStaff.class
